@@ -5,12 +5,9 @@ And the special in this case is an **animated 3d scrolling animation**.
 
 It is a simple application that explore many computer graphics concepts.
 
-## Install Dependecies
-Run `npm install`
-
 ## Development server
 
-Run `npm run dev` for s dev server. Navigate to `http://localhost:300`. The app will automatically reload if you change any of the source files
+Run `npm i` and than `npm run dev` for s dev server. Navigate to `http://localhost:300`. The app will automatically reload if you change any of the source files
 
 ## Example
 
